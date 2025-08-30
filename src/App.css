@@ -1,0 +1,15 @@
+.threeCard {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+.shipping {
+  background-image: url("/images/shipping.jpg");
+}
+.delivery {
+  background-image: url("/images/delivery.jpg");
+}
+.support {
+  background-image: url("/images/support.jpg");
+}
