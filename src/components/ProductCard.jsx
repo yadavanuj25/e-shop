@@ -80,7 +80,7 @@ const ProductCard = ({ product }) => {
 
       {/* Product Image */}
       <img
-        src={product.image}
+        src={`/e-shop/${product.image}`}
         alt={product.title}
         className="w-full h-48 object-cover rounded-md"
       />
